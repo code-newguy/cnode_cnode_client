@@ -1,0 +1,109 @@
+@import "variables";
+
+@font-face {
+  font-family: 'first-demo';
+  src:  url('#{$icomoon-font-path}/first-demo.eot?gl0awg');
+  src:  url('#{$icomoon-font-path}/first-demo.eot?gl0awg#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/first-demo.ttf?gl0awg') format('truetype'),
+    url('#{$icomoon-font-path}/first-demo.woff?gl0awg') format('woff'),
+    url('#{$icomoon-font-path}/first-demo.svg?gl0awg#first-demo') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'first-demo' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-favorite {
+  &:before {
+    content: $icon-favorite;
+  }
+}
+.icon-keyboard_arrow_right {
+  &:before {
+    content: $icon-keyboard_arrow_right;
+  }
+}
+.icon-thumb_up {
+  &:before {
+    content: $icon-thumb_up;
+  }
+}
+.icon-envelop {
+  &:before {
+    content: $icon-envelop;
+  }
+}
+.icon-compass {
+  &:before {
+    content: $icon-compass;
+  }
+}
+.icon-undo2 {
+  &:before {
+    content: $icon-undo2;
+  }
+}
+.icon-bubbles4 {
+  &:before {
+    content: $icon-bubbles4;
+  }
+}
+.icon-users {
+  &:before {
+    content: $icon-users;
+  }
+}
+.icon-menu {
+  &:before {
+    content: $icon-menu;
+  }
+}
+.icon-info {
+  &:before {
+    content: $icon-info;
+  }
+}
+.icon-forward2 {
+  &:before {
+    content: $icon-forward2;
+  }
+}
+.icon-backward2 {
+  &:before {
+    content: $icon-backward2;
+  }
+}
+.icon-forward3 {
+  &:before {
+    content: $icon-forward3;
+  }
+}
+.icon-arrow-up {
+  &:before {
+    content: $icon-arrow-up;
+  }
+}
+.icon-circle-right {
+  &:before {
+    content: $icon-circle-right;
+  }
+}
+.icon-share2 {
+  &:before {
+    content: $icon-share2;
+  }
+}
+
