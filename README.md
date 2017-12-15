@@ -27,8 +27,8 @@ npm run e2e
 npm test
 ```
 #切换的页面
-![image](https://github.com/code-newguy/cnode_cnode_client/blob/master/screenshot/GIF1.gif)  
-![image](https://github.com/code-newguy/cnode_cnode_client/blob/master/screenshot/GIF2.gif)  
-![image](https://github.com/code-newguy/cnode_cnode_client/blob/master/screenshot/GIF3.gif)  
+1. ![image](https://github.com/code-newguy/cnode_cnode_client/blob/master/screenshot/GIF1.gif)  
+2. ![image](https://github.com/code-newguy/cnode_cnode_client/blob/master/screenshot/GIF2.gif)  
+3. ![image](https://github.com/code-newguy/cnode_cnode_client/blob/master/screenshot/GIF3.gif)  
 
 
