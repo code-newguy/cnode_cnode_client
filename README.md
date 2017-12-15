@@ -26,11 +26,11 @@ npm run e2e
 # run all tests
 npm test
 ```
-1. 
+##
 ![image](https://github.com/code-newguy/cnode_cnode_client/blob/master/screenshot/GIF1.gif)  
-2. 
+##
 ![image](https://github.com/code-newguy/cnode_cnode_client/blob/master/screenshot/GIF2.gif)  
-3. 
+##
 ![image](https://github.com/code-newguy/cnode_cnode_client/blob/master/screenshot/GIF3.gif)  
 
 
