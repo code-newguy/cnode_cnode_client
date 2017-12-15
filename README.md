@@ -26,7 +26,6 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-![image](https://github.com/code-newguy/cnode_cnode_client/blob/master/screenshot/GIF1.gif)  
+#切换的页面
+![image](https://github.com/code-newguy/cnode_cnode_client/blob/master/screenshot/GIF1.gif)  
 
